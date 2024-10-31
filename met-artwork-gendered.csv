@@ -1,0 +1,13 @@
+,Gender,BeforeOrAfter1985,Exposed,count
+0,F,Before 1985,False,1321
+1,F,Before 1985,True,46
+2,F,After 1985,False,1185
+3,F,After 1985,True,47
+4,M,Before 1985,False,5493
+5,M,Before 1985,True,148
+6,M,After 1985,False,4496
+7,M,After 1985,True,158
+8,Unknown,Before 1985,False,820
+9,Unknown,Before 1985,True,14
+10,Unknown,After 1985,False,762
+11,Unknown,After 1985,True,36
