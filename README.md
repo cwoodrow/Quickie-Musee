@@ -1,11 +1,12 @@
 # Les femmes doivent-elles être nues pour être exposées au Met. Museum ?
 
-Travail sur les méta données du Met. Museul
+Work on Met Museum meta data around gender representation in Met's collection.
 
 ## Sources de données
 
-Met museum Open Data : https://github.com/metmuseum/openaccess
-Gender by name data set by : https://archive.ics.uci.edu/dataset/591/gender+by+name
+Used data sets : 
+* Met museum Open Data : https://github.com/metmuseum/openaccess
+* Gender by name data set by : https://archive.ics.uci.edu/dataset/591/gender+by+name
 
 ## Note book 
 Find the data analysis notebook here 
